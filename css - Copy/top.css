@@ -1,0 +1,23 @@
+#tt44{
+  background-color: aqua;
+  width: 250px;
+  height:250px;
+  border: 10px solid black;
+  padding: 20px;
+}
+#rr11{
+  background-color: red;
+  width: 250px;
+  height:250px;
+  border: 20px solid black;
+  padding: 20px;
+  margin-left: 300px;
+}
+#rr22{
+  background-color: yellow;
+  width: 250px;
+  height:250px;
+  border: 10px solid black;
+  padding: 20px;
+  margin-left: 630px;
+}
